@@ -13,3 +13,5 @@ function largestnum(a) {
     
 }
 console.log(largestnum([ -5, 78, 14, 0, 18 ]) );
+console.log(largestnum(true) );
+
